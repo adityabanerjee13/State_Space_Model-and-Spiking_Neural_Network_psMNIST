@@ -1,0 +1,7 @@
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.2.2
+torch==2.0.1
+torchvision==0.15.2
+spikingjelly==0.0.0.0.12
+scipy==1.11.3
